@@ -1,7 +1,0 @@
-{
-  "author":"wh1t3P1g",
-  "name":"command execution",
-  "status":"on",
-  "language":"c",
-  "regex":"\\bsystem\\s*\\(|\\bexec[a-z]{0,2}\\s*\\(|\\bpopen\\s*\\("
-}

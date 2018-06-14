@@ -1,7 +1,0 @@
-{
-  "author":"wh1t3P1g",
-  "name":"obscure",
-  "status":"off",
-  "language":"c",
-  "regex":"[[:alnum:]]+/\\\\.\\\\./|[[:alpha:]]+/\\\\./[[:alpha:]]+/|(\\\\\\\\x[0-9a-fA-F]{2})+|\\\\{[0-9\\\\,[:blank:]]+\\\\}"
-}

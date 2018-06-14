@@ -1,7 +1,0 @@
-{
-  "author":"wh1t3P1g",
-  "name":"system command execution",
-  "status":"on",
-  "language":"c",
-  "regex":"(/usr/local/bin/|/usr/bin/|/bin/)(mail|curl|wget|git|ftp|sftp|ssh|nc|bash|find|cp|dd|redis-cli|netstat|dockerd|ps|libvirt-bin)|/dev/tcp"
-}

@@ -1,7 +1,0 @@
-{
-  "author":"wh1t3P1g",
-  "name":"ip",
-  "status":"off",
-  "language":"c",
-  "regex":"([0-9]{1,3}\\.){3}[0-9]{1,3}"
-}

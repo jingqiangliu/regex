@@ -1,7 +1,0 @@
-{
-  "author":"wh1t3P1g",
-  "name":"software source modify",
-  "status":"on",
-  "language":"c",
-  "regex":"daemon\\.js|etc/hosts|etc/resolv.conf|yum\\.repos\\.d|sources\\.list|daemon\\.json|pip\\.conf|maven[0-9]/conf/settings.xml|\\.npmrc"
-}
