@@ -1,0 +1,11 @@
+{
+  "author":"wh1t3P1g",
+  "name":"ssrf",
+  "status":"off",
+  "language":"php",
+  "description":"ssrf",
+  "vul":"arbitrary file upload",
+  "vulID":"",
+  "regex":"file_move_",
+  "security_function":""
+}

@@ -1,0 +1,7 @@
+{
+  "author":"wh1t3P1g",
+  "name":"sensitive keywords",
+  "status":"on",
+  "language":"c",
+  "regex":"coinhive|evil|malware"
+}

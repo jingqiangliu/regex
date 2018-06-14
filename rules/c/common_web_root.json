@@ -1,0 +1,8 @@
+{
+  "author":"wh1t3P1g",
+  "name":"common web root path",
+  "status":"on",
+  "language":"c",
+  "regex":"/var/www(/html|/uploads)*|/var/lib/tomcat[[:digit:]]/webapps|/opt/tomcat/lib|/opt/atlassian/jira|/usr/share/nginx/html|/htdocs|/var/lib/jenkins|/etc/nginx/sites-available/default"
+}
+
