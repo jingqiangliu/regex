@@ -3,5 +3,5 @@
   "name":"system command execution",
   "status":"on",
   "language":"c",
-  "regex":"(/usr/local/bin/|/usr/bin/|/bin/)(mail|curl|wget|git|ftp|sftp|ssh|nc|bash|find|cp|dd|redis-cli|netstat|dockerd|ps|libvirt-bin)|/dev/tcp"
+  "regex":"(/usr/local/bin/|/usr/bin/|/bin/|/usr/sbin/)(user(add|del)|ls|mail|curl|rpm|top|wget|git|ftp|sftp|ssh|nc|bash|find|cp|dd|redis-cli|netstat|dockerd|ps|libvirt-bin)|/dev/tcp"
 }

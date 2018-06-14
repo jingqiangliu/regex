@@ -1,0 +1,7 @@
+{
+  "author":"wh1t3P1g",
+  "name":"webshell",
+  "status":"on",
+  "language":"c",
+  "regex":"\\.php([0-9])*|\\.p(ht|html|gif)|\\.shtml|\\.jsp(x)*|\\.asp(x)*|\\.pl|\\.sh"
+}

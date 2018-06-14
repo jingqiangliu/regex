@@ -60,6 +60,7 @@ def scan():
     with open(resFile,'w+') as f:
         for s in kb.regex:
             for name,vaule in s.items():
+                logger.warn(name)
                 for v in vaule:
                     logger.info("{0}".format(v))
                     f.write(v+"\n")

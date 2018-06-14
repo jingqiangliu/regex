@@ -3,5 +3,5 @@
   "name":"sensitive keywords",
   "status":"on",
   "language":"c",
-  "regex":"coinhive|evil|malware"
+  "regex":"coinhive|evil|malware|ceye\\.io|hacker|\\\\x2e\\\\x69\\\\x6f"
 }

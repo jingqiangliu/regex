@@ -3,5 +3,5 @@
   "name":"sensitive config file part two",
   "status":"on",
   "language":"c",
-  "regex":"/passwd|/shadow|(\\.)*pgpass|shadowsocks\\.json|sshd\\.pid|VMware|etc/group|/proc/(cpuinfo|version|self)|product_name|pci\\.ids"
+  "regex":"/passwd|/shadow|(\\.)*pgpass|shadowsocks\\.json|sshd\\.pid|VMware|etc/group|/proc/(cpuinfo|version|self)|product_name|pci\\.ids|iptables|x86_64-linux-gnu\\.conf"
 }
