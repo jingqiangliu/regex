@@ -1,0 +1,11 @@
+{
+  "author":"wh1t3P1g",
+  "name":"fi",
+  "status":"on",
+  "language":"php",
+  "description":"file include vulnerability",
+  "vul":"arbitrary file include",
+  "vulID":"",
+  "regex":"include|include_once|require|require_once",
+  "security_function":""
+}

@@ -1,0 +1,7 @@
+{
+  "author":"wh1t3P1g",
+  "name":"obscure part two",
+  "status":"off",
+  "language":"c",
+  "regex":"\\#define[[:blank:]]*_[0-9a-fA-F]{32}[[:blank:]]*"
+}

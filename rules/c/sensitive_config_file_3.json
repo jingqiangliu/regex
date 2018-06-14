@@ -1,0 +1,7 @@
+{
+  "author":"wh1t3P1g",
+  "name":"sensitive config file part three",
+  "status":"on",
+  "language":"c",
+  "regex":"bash_history|mysql_history|bashrc|etc/redis|etc/gitlab|redis\\.conf|\\.profile|bash_profile|lib64/security|etc/pam.d|authorized_keys|rc\\.local|elasticsearch\\.yml|etc/init.d"
+}

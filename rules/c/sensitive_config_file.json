@@ -1,0 +1,7 @@
+{
+  "author":"wh1t3P1g",
+  "name":"sensitive config file part one",
+  "status":"on",
+  "language":"c",
+  "regex":"\\.gitconfig|id_rsa|\\.tmp_log|my\\.cnf|/inetd\\.conf|nginx\\.conf|web\\.xml|postgresql\\.conf|ansible\\.cfg|pg_hba\\.conf|config\\.inc|user\\.MYD|ssl\\.conf|svc\\.conf|host\\.conf|nsswitch\\.conf"
+}
